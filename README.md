@@ -2,6 +2,7 @@
 Student project in Visual Basic.NET
 
 Coin Game is a game where the user races against the clock to count the coins on screen. 
+Might be useful for teaching young children how to count money.
 
 TO DO:
 - rename in next version to "coin game"
