@@ -1,5 +1,5 @@
 # coin-game
-Student project in Visual Basi.NET
+Student project in Visual Basic.NET
 
 Coin Game is a game where the user races against the clock to count the coins on screen. 
 
