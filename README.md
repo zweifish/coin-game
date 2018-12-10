@@ -8,4 +8,6 @@ TO DO:
 - output name/amount/time scores to a text file 
 - create different difficulty levels (increase number of coins on screen to count)
 - add splash page
+- change numtxt from NumericUpDown to TextBox possibly
+
 
